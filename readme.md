@@ -7,7 +7,7 @@
 
 [![Development Workflow](https://github.com/joshuakaisar/is218-project1/actions/workflows/dev.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/dev.yml)
 
-* [Developmental Deployment](https://jk259-testing.herokuapp.com/)
+* [Developmental Deployment](https://jk259-is218-project1-dev.herokuapp.com/)
 
 ## Setting up CI/CD
 
